@@ -1,0 +1,8 @@
+{
+  "name": "jackid",
+  "logo": "https://ibb.co/ph0JX4t",
+  "rpc_url": "http://146.190.138.181:9944",
+  "explorer_url": "146.190.138.181:4000",
+  "metrics_endpoint": "146.190.138.181:9615/metrics",
+  "id": "078b6d35-09d7-47ed-a8ac-93d0fb7f5fcd"
+}
